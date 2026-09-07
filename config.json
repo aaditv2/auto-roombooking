@@ -11,18 +11,18 @@
   },
   "rules": [
     {
-      "name": "Booking pattern",
+      "name": "Oculus evening",
       "weekdays": [
-        "Wed",
-        "Thu"
+        "Wed"
+      ],
+      "date_ranges": [
+        [
+          "2026-11-04",
+          "2026-11-04"
+        ]
       ],
       "start": "17:00",
       "end": "22:00",
-      "terms": [
-        "autumn",
-        "spring",
-        "summer"
-      ],
       "rooms": [
         "OC1.06",
         "OC1.09",
@@ -30,8 +30,111 @@
         "OC1.01"
       ],
       "strict_rooms": true,
+      "size": 5,
+      "reason": "Group study session"
+    },
+    {
+      "name": "Library Friday morning",
+      "weekdays": [
+        "Thu"
+      ],
+      "date_ranges": [
+        [
+          "2026-11-05",
+          "2026-11-05"
+        ]
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "rooms": [
+        "L1.02",
+        "L1.03"
+      ],
+      "strict_rooms": true,
       "size": 6,
+      "reason": "Project meeting"
+    },
+    {
+      "name": "Exam prep",
+      "weekdays": [
+        "Fri"
+      ],
+      "date_ranges": [
+        [
+          "2026-11-06",
+          "2026-11-06"
+        ]
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "rooms": [
+        "MS.03"
+      ],
+      "strict_rooms": false,
+      "size": 4,
+      "reason": "Exam prep"
+    },
+    {
+      "name": "Thesis defense",
+      "weekdays": [
+        "Sat"
+      ],
+      "date_ranges": [
+        [
+          "2026-11-07",
+          "2026-11-07"
+        ]
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "rooms": [
+        "MS.03"
+      ],
+      "strict_rooms": true,
+      "size": 4,
+      "reason": "Thesis defense"
+    },
+    {
+      "name": "KCSOC Gita Circle",
+      "weekdays": [
+        "Sun"
+      ],
+      "date_ranges": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "start": "17:00",
+      "end": "22:00",
+      "rooms": [
+        "OC1.01",
+        "0C1.08",
+        "9C1.09"
+      ],
+      "strict_rooms": true,
+      "size": 20,
       "reason": "KCSOC"
+    },
+    {
+      "name": "180dc panel",
+      "weekdays": [
+        "Mon"
+      ],
+      "date_ranges": [
+        [
+          "2026-11-09",
+          "2026-11-09"
+        ]
+      ],
+      "start": "18:00",
+      "end": "22:00",
+      "rooms": [
+        "OC1.05"
+      ],
+      "strict_rooms": true,
+      "size": 100,
+      "reason": "180DC"
     }
   ]
 }
