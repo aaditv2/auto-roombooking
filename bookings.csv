@@ -1,0 +1,7 @@
+label,rooms,date,start,end,size,reason,strict
+Oculus evening,OC1.06;OC1.09;OC1.04;OC1.01,04/11/2026,17:00,22:00,5,Group study session,yes
+Library Friday morning,L1.02;L1.03,06/11/2026,09:00,11:00,6,Project meeting,yes
+Exam prep,MS.03,09/11/2026,18:00,20:00,4,Exam prep,no
+Thesis defense,MS.03,19/11/2026,14:00,16:00,4,Thesis defense,yes
+KCSOC Gita Circle,"OC1.01, 0C1.08, 9C1.09",19/11/2026,17:00,22:00,20,KCSOC,yes
+180dc panel,OC1.05,19/11/2026,18:00,22:00,100,180DC,yes
