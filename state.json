@@ -1,6 +1,48 @@
 {
-  "booked": {},
-  "failures": {},
+  "booked": {
+    "WRB2627|2026-11-06|18:00|20:00": {
+      "at": "2026-09-16T13:56:56",
+      "date": "2026-11-06",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested MS.03 has been reserved for you, from 18:00 to 20:00 on Friday, 06/11/2026. Room Reference Request? MS.03 BK4330EB P b",
+      "end": "20:00",
+      "reference": "BK4330EB",
+      "room": "MS.03",
+      "rule": "Exam prep",
+      "start": "18:00"
+    },
+    "WRB2627|2026-11-07|14:00|16:00": {
+      "at": "2026-09-16T13:58:34",
+      "date": "2026-11-07",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested MS.03 has been reserved for you, from 14:00 to 16:00 on Saturday, 07/11/2026. Room Reference Request? MS.03 BK433127 P",
+      "end": "16:00",
+      "reference": "BK433127",
+      "room": "MS.03",
+      "rule": "Thesis defense",
+      "start": "14:00"
+    }
+  },
+  "failures": {
+    "WRB2627|2026-11-04|17:00|22:00": {
+      "at": "2026-09-16T13:55:08",
+      "count": 1,
+      "last": "none of OC1.06/OC1.09/OC1.04/OC1.01 free (offered: B2.03 (Sci Conc), A0.26 (Millburn), A1.25 (Millburn), A1.27 (Millburn), A1.28 (Millburn), MB0.07)"
+    },
+    "WRB2627|2026-11-05|09:00|11:00": {
+      "at": "2026-09-16T13:55:29",
+      "count": 1,
+      "last": "no option '09:00' in Time1$StartTimeList (have: ['9:00', '10:00', '11:00', '12:00', '13:00', '14:00', '15:00', '16:00', '17:00', '18:00', '19:00', '20:00', '21:00'])"
+    },
+    "WRB2627|2026-11-08|17:00|22:00": {
+      "at": "2026-09-16T13:59:33",
+      "count": 1,
+      "last": "none of OC1.01/0C1.08/9C1.09 free (offered: B2.03 (Sci Conc), A0.26 (Millburn), A1.25 (Millburn), A1.27 (Millburn), A1.28 (Millburn), MB0.08)"
+    },
+    "WRB2627|2026-11-09|18:00|22:00": {
+      "at": "2026-09-16T13:59:49",
+      "count": 1,
+      "last": "date 2026-11-09 did not take (textbox=None)"
+    }
+  },
   "flags": {
     "announced:https://abs.warwick.ac.uk/WRB2627/": "2026-09-16T10:17:03"
   }
