@@ -23,24 +23,24 @@
   },
   "failures": {
     "WRB2627|2026-11-04|17:00|22:00": {
-      "at": "2026-09-18T02:57:41",
-      "count": 144,
-      "last": "calendar control not found on https://abs.warwick.ac.uk/wrb2627/Error.aspx?aspxerrorpath=/wrb2627/default.aspx"
+      "at": "2026-09-18T03:24:31",
+      "count": 145,
+      "last": "calendar control not found on https://abs.warwick.ac.uk/wrb2627/Error.aspx?aspxerrorpath=/WRB2627/portallogin.aspx"
     },
     "WRB2627|2026-11-05|09:00|11:00": {
-      "at": "2026-09-18T02:57:43",
-      "count": 144,
-      "last": "calendar control not found on https://abs.warwick.ac.uk/wrb2627/Error.aspx?aspxerrorpath=/WRB2627/book.aspx"
+      "at": "2026-09-18T03:24:34",
+      "count": 145,
+      "last": "calendar control not found on https://abs.warwick.ac.uk/wrb2627/Error.aspx?aspxerrorpath=/WRB2627/portallogin.aspx"
     },
     "WRB2627|2026-11-08|17:00|22:00": {
-      "at": "2026-09-18T02:57:45",
-      "count": 144,
-      "last": "calendar control not found on https://abs.warwick.ac.uk/wrb2627/Error.aspx?aspxerrorpath=/WRB2627/book.aspx"
+      "at": "2026-09-18T03:24:36",
+      "count": 145,
+      "last": "calendar control not found on https://abs.warwick.ac.uk/wrb2627/Error.aspx?aspxerrorpath=/WRB2627/portallogin.aspx"
     },
     "WRB2627|2026-11-09|18:00|22:00": {
-      "at": "2026-09-18T02:57:47",
-      "count": 144,
-      "last": "calendar control not found on https://abs.warwick.ac.uk/wrb2627/Error.aspx?aspxerrorpath=/WRB2627/book.aspx"
+      "at": "2026-09-18T03:24:39",
+      "count": 145,
+      "last": "calendar control not found on https://abs.warwick.ac.uk/wrb2627/Error.aspx?aspxerrorpath=/WRB2627/portallogin.aspx"
     }
   },
   "flags": {
