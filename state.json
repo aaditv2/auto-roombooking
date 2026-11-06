@@ -23,13 +23,13 @@
   },
   "failures": {
     "WRB2627|2026-11-08|17:00|22:00": {
-      "at": "2026-11-06T18:14:59",
-      "count": 2129,
-      "last": "none of OC1.01/0C1.08/9C1.09 free (offered: B2.03 (Sci Conc), A0.26 (Millburn), A1.25 (Millburn), A1.27 (Millburn), A1.28 (Millburn), MB0.08)"
+      "at": "2026-11-06T23:15:43",
+      "count": 2130,
+      "last": "options grid missing; page says: Diagnostics Failure The application was unable to process your request. Use the back button in your browser to try again.  Contact your administrator if the problem persists."
     },
     "WRB2627|2026-11-09|18:00|22:00": {
-      "at": "2026-11-06T18:15:03",
-      "count": 2129,
+      "at": "2026-11-06T23:15:46",
+      "count": 2130,
       "last": "none of OC1.05 free (offered: L5, PLT)"
     }
   },
