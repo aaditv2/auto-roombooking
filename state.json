@@ -1,15 +1,5 @@
 {
   "booked": {
-    "WRB2627|2026-11-06|18:00|20:00": {
-      "at": "2026-09-16T13:56:56",
-      "date": "2026-11-06",
-      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested MS.03 has been reserved for you, from 18:00 to 20:00 on Friday, 06/11/2026. Room Reference Request? MS.03 BK4330EB P b",
-      "end": "20:00",
-      "reference": "BK4330EB",
-      "room": "MS.03",
-      "rule": "Exam prep",
-      "start": "18:00"
-    },
     "WRB2627|2026-11-07|14:00|16:00": {
       "at": "2026-09-16T13:58:34",
       "date": "2026-11-07",
@@ -23,13 +13,13 @@
   },
   "failures": {
     "WRB2627|2026-11-08|17:00|22:00": {
-      "at": "2026-11-06T23:15:43",
-      "count": 2130,
-      "last": "options grid missing; page says: Diagnostics Failure The application was unable to process your request. Use the back button in your browser to try again.  Contact your administrator if the problem persists."
+      "at": "2026-11-07T02:53:56",
+      "count": 2131,
+      "last": "none of OC1.01/0C1.08/9C1.09 free (offered: B2.03 (Sci Conc), A0.26 (Millburn), A1.25 (Millburn), A1.27 (Millburn), A1.28 (Millburn), MB0.08)"
     },
     "WRB2627|2026-11-09|18:00|22:00": {
-      "at": "2026-11-06T23:15:46",
-      "count": 2130,
+      "at": "2026-11-07T02:54:00",
+      "count": 2131,
       "last": "none of OC1.05 free (offered: L5, PLT)"
     }
   },
