@@ -13,13 +13,13 @@
   },
   "failures": {
     "WRB2627|2026-11-08|17:00|22:00": {
-      "at": "2026-11-07T02:53:56",
-      "count": 2131,
+      "at": "2026-11-07T09:39:56",
+      "count": 2132,
       "last": "none of OC1.01/0C1.08/9C1.09 free (offered: B2.03 (Sci Conc), A0.26 (Millburn), A1.25 (Millburn), A1.27 (Millburn), A1.28 (Millburn), MB0.08)"
     },
     "WRB2627|2026-11-09|18:00|22:00": {
-      "at": "2026-11-07T02:54:00",
-      "count": 2131,
+      "at": "2026-11-07T09:39:59",
+      "count": 2132,
       "last": "none of OC1.05 free (offered: L5, PLT)"
     }
   },
