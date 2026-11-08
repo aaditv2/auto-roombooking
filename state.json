@@ -1,25 +1,14 @@
 {
-  "booked": {
-    "WRB2627|2026-11-07|14:00|16:00": {
-      "at": "2026-09-16T13:58:34",
-      "date": "2026-11-07",
-      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested MS.03 has been reserved for you, from 14:00 to 16:00 on Saturday, 07/11/2026. Room Reference Request? MS.03 BK433127 P",
-      "end": "16:00",
-      "reference": "BK433127",
-      "room": "MS.03",
-      "rule": "Thesis defense",
-      "start": "14:00"
-    }
-  },
+  "booked": {},
   "failures": {
     "WRB2627|2026-11-08|17:00|22:00": {
-      "at": "2026-11-07T23:27:46",
-      "count": 2135,
+      "at": "2026-11-08T02:38:32",
+      "count": 2136,
       "last": "none of OC1.01/0C1.08/9C1.09 free (offered: B2.03 (Sci Conc), A0.26 (Millburn), A1.25 (Millburn), A1.27 (Millburn), A1.28 (Millburn), MB0.08)"
     },
     "WRB2627|2026-11-09|18:00|22:00": {
-      "at": "2026-11-07T23:27:50",
-      "count": 2135,
+      "at": "2026-11-08T02:38:36",
+      "count": 2136,
       "last": "none of OC1.05 free (offered: L5, PLT)"
     }
   },
