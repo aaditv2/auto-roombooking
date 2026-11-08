@@ -2,13 +2,13 @@
   "booked": {},
   "failures": {
     "WRB2627|2026-11-08|17:00|22:00": {
-      "at": "2026-11-08T16:10:16",
-      "count": 2138,
+      "at": "2026-11-08T20:26:37",
+      "count": 2139,
       "last": "none of OC1.01/0C1.08/9C1.09 free (offered: B2.03 (Sci Conc), A0.26 (Millburn), A1.25 (Millburn), A1.27 (Millburn), A1.28 (Millburn), MB0.08)"
     },
     "WRB2627|2026-11-09|18:00|22:00": {
-      "at": "2026-11-08T16:10:20",
-      "count": 2138,
+      "at": "2026-11-08T20:26:41",
+      "count": 2139,
       "last": "none of OC1.05 free (offered: PLT)"
     }
   },
