@@ -2,8 +2,8 @@
   "booked": {},
   "failures": {
     "WRB2627|2026-11-09|18:00|22:00": {
-      "at": "2026-11-09T04:54:37",
-      "count": 2141,
+      "at": "2026-11-09T13:38:47",
+      "count": 2142,
       "last": "none of OC1.05 free (offered: PLT)"
     }
   },
